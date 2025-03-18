@@ -4,7 +4,7 @@
 // @description     Speeds up page timers by 10x to skip ads, accelerate videos, and bypass waiting times
 // @include         *
 // @require         
-// @author          Based on TimerHooker by Tiger 27
+// @author          B1PL0B (Based on TimerHooker by Tiger 27)
 // @match           http://*/*
 // @match           https://*/*
 // @run-at          document-start
